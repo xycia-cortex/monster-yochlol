@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: monster-yochlol
+  x-cortex-tag: monster-yochlol
+  x-cortex-custom-metadata:
+    alignment: chaotic-evil
+    type: fiend
+    challenge_rating: 10
+    legendary: false
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-yochlol
+      alias: github-token-test
