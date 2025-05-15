@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-yochlol
+  x-cortex-tag: monster-yochlol
+  x-cortex-custom-metadata:
+    alignment: lawful-good
+    type: elemental
+    challenge_rating: 6
+    legendary: false
+    armor_class: 12
+    hit_points: 270
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-yochlol
+      alias: github-token-test
